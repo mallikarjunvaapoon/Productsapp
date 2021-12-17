@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'user',
     'rest_framework',
     'connections',
+    'feed',
+    'products',
 ]
 
 MIDDLEWARE = [
@@ -123,3 +125,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 AUTH_USER_MODEL = 'user.UserModel'
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, "media")

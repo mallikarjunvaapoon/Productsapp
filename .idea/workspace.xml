@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7170fe40-ae67-451c-be73-b178dc3fb4de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/.idea/Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/connections/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/connections/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/connections/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/connections/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/connections/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/connections/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/connections/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/connections/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/connections/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/connections/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/user/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/user/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21x9wWX12rHKOTf4gtTJlpq7kBS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7170fe40-ae67-451c-be73-b178dc3fb4de" name="Changes" comment="" />
+      <created>1638872110227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638872110227</updated>
+    </task>
+    <servers />
+  </component>
+</project>
